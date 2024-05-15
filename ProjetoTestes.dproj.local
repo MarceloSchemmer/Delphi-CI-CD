@@ -10,12 +10,12 @@
     <Transaction>2024/03/21 17:29:50.000.264,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2024/04/19 11:29:17.000.495,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2024/05/07 07:06:06.000.958,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2024/05/14 18:19:22.397,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2024/05/14 18:27:57.742,C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\uFrmPrincipal.pas=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2024/05/14 18:27:57.742,C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\uFrmPrincipal.fmx=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
-    <Transaction>2024/05/14 18:28:11.812,C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\ProjetoTestes.dproj=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/14 18:19:22.000.397,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/05/14 18:27:57.000.742,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.fmx=C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\uFrmPrincipal.fmx</Transaction>
+    <Transaction>2024/05/14 18:27:57.000.742,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\uFrmPrincipal.pas</Transaction>
+    <Transaction>2024/05/14 18:28:11.000.812,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marce\OneDrive\Documentos\GitHub\Delphi-CI-CD\ProjetoTestes.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile Android64="RQCRC004C7A" Android="RQCRC004C7A"/>
+		<NoProfile Android64="" Android=""/>
 	</ActiveMobileDevice>
 </BorlandProject>
