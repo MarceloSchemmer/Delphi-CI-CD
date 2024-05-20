@@ -26,8 +26,7 @@ implementation
 
 procedure TForm3.Button1Click(Sender: TObject);
 begin
-  ShowMessage('B');
-  DASHUSDHUASDHU
+  ShowMessage('');
 end;
 
 end.
