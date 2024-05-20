@@ -7,4 +7,6 @@ for %%F in ("%diretorio%\*.pas") do (
         echo O arquivo %%~nxF contem a string "SELECT * FROM".
 	exit /b 1
     )
+exit /b 0
 )
+pause
