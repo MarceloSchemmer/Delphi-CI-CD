@@ -26,7 +26,7 @@ implementation
 
 procedure TForm3.Button1Click(Sender: TObject);
 begin
-  ShowMessage('aqui vai mensagem A');
+  ShowMessage('SELECT * FROM');
 end;
 
 end.
