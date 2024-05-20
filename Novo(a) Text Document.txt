@@ -1,0 +1,6 @@
+*.dproj.local
+*.identcache
+*.res
+*.dpr
+Win32/
+__history/
