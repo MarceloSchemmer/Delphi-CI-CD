@@ -16,17 +16,9 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Verificar SQL nos commits
-        shell: powershell
+        shell: cmd
         run: .\check_sql.bat
 
       - name: compile-project
         shell: powershell
         run: .\compilador.bat
-
-      # - name: execute-test
-      #   shell: powershell
-      #   run: .\bin\testes-automatizado.exe
-
-# Compilador.bat
-# call "C:\Program Files (x86)\Embarcadero\Studio\23.0\bin\rsvars.bat"
-# msbuild ProjetoTestes.dproj
