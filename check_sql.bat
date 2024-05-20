@@ -9,4 +9,3 @@ for %%F in ("%diretorio%\*.pas") do (
     )
 exit /b 0
 )
-pause
