@@ -27,7 +27,6 @@ implementation
 procedure TForm3.Button1Click(Sender: TObject);
 begin
   ShowMessage('Testes A');
-  sadhudhuasdhu
 end;
 
 end.
